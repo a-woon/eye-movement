@@ -1,5 +1,7 @@
 # Eye-Movement
 
+<img src= "EyeMovementSs.png"/>
+
 Eye-Movement Exercise
 
 ## Project Description
