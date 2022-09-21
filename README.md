@@ -1,6 +1,6 @@
 # Eye-Movement
 
-<img src= "EyeMovementSs.png"/>
+<img src= "https://github.com/a-woon/eye-movement/blob/4f2e198d757dadf1504f4a1f6371fe4d6b746af2/EyeMovementSS.png"/>
 
 Eye-Movement Exercise
 
